@@ -163,3 +163,6 @@ Epoch: [10/10] Step: [700/700] Loss-D: 0.3325 Loss-G: 2.9338 D(x): 0.8902 D(G(z)
 > UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS: [Download](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 # 7. Cite
 > [https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN](https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN)
+
+# 8. Tips
+> For Chinese, you can look my csdn blog: [https://blog.csdn.net/qq_42951560/article/details/114839052](https://blog.csdn.net/qq_42951560/article/details/114839052)
