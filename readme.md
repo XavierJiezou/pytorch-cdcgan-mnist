@@ -2,9 +2,9 @@
 Based on the `mnist` dataset, we will train a `cdcgan`(cgan+dcgan) to generate new controlled handwritten digit.
 # 2. Environment
 ## 2.1. Python
-download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 ## 2.2. Pytorch
-download: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+Download: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 ## 2.3. Jupyter notebook
 ```bash
 pip install jupyter
