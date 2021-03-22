@@ -18,7 +18,7 @@ pip install matplotlib
 ### 3.1.1. Structure of Generator
 ![Structure of Generator](https://img-blog.csdnimg.cn/20210322111750788.png#pic_center)
 
-### 3.9.2. COde
+### 3.9.2. Code
 ```python
 class Generator(nn.Module):
     def __init__(self, ngpu):
