@@ -143,10 +143,10 @@ Epoch: [10/10] Step: [700/700] Loss-D: 0.3325 Loss-G: 2.9338 D(x): 0.8902 D(G(z)
 ## 3.4. Loss versus training iteration
 ![Loss versus training iteration](https://img-blog.csdnimg.cn/20210322113206948.png#pic_center)
 
-## 3.14. D(x) and D(G(z)) versus training iteration
+## 3.5. D(x) and D(G(z)) versus training iteration
 ![D(x) and D(G(z)) versus training iteration](https://img-blog.csdnimg.cn/20210322113323904.png#pic_center)
 
-## 3.15. Visualization of G’s progression
+## 3.6. Visualization of G’s progression
 ![Visualization of G’s progression](train.gif)
 
 
