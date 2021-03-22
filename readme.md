@@ -1,5 +1,5 @@
 # 1. Target
-Based on the mnist dataset, we will train a cdcgan(cgan+dcgan) to generate new controlled handwritten digit.
+Based on the `mnist` dataset, we will train a `cdcgan`(cgan+dcgan) to generate new controlled handwritten digit.
 # 2. Environment
 ## 2.1. Python
 download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
