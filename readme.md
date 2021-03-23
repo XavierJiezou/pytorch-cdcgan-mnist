@@ -154,7 +154,7 @@ Epoch: [10/10] Step: [700/700] Loss-D: 0.3325 Loss-G: 2.9338 D(x): 0.8902 D(G(z)
 ![Real Images vs. Fake Images](result.jpg)
 
 
-# 5. Starting Training
+# 5. Training
 > [cdcgan.ipynb](cdcgan.ipynb)
 
 # 6. Paper
